@@ -4,7 +4,7 @@
 Build Status
 ------------
 
-|Branch|Appveyor|Travis|
+|Branch|Travis|Appveyor|
 |:------:|:------:|:------:|
 |master|[![Build Status](https://travis-ci.org/vinhch/MongoData.svg?branch=master)](https://travis-ci.org/vinhch/MongoData)|[![Build status](https://ci.appveyor.com/api/projects/status/h7g6e8w3ltiwshxe/branch/master?svg=true)](https://ci.appveyor.com/project/vinhch/mongodata)|
 
