@@ -4,11 +4,9 @@
 Build Status
 ------------
 
-Branch master
-
-|Linux |Windows |
-|:------:|:------:|
-|[![Build Status](https://travis-ci.org/vinhch/MongoData.svg?branch=master)](https://travis-ci.org/vinhch/MongoData)|[![Build status](https://ci.appveyor.com/api/projects/status/h7g6e8w3ltiwshxe?svg=true)](https://ci.appveyor.com/project/vinhch/mongodata)|
+|Branch|Appveyor|Travis|
+|:------:|:------:|:------:|
+|master|[![Build Status](https://travis-ci.org/vinhch/MongoData.svg?branch=master)](https://travis-ci.org/vinhch/MongoData)|[![Build status](https://ci.appveyor.com/api/projects/status/h7g6e8w3ltiwshxe/branch/master?svg=true)](https://ci.appveyor.com/project/vinhch/mongodata)|
 
 Info
 ----
